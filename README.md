@@ -20,7 +20,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Links
 
 - Solution URL: [https://github.com/wait4ndbleed/huddle-landing-page-with-single-introductory-section-master](https://github.com/wait4ndbleed/huddle-landing-page-with-single-introductory-section-master)
-- Live Site URL: [https://fabulous-brigadeiros-1e288b.netlify.app](https://fabulous-brigadeiros-1e288b.netlify.app)
+- Live Site URL: [https://wondrous-travesseiro-2b868c.netlify.app](https://wondrous-travesseiro-2b868c.netlify.app)
 
 
 ### Built with
